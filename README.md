@@ -72,4 +72,15 @@ tbUrbano (ID_Urbano [PK], ID_Centro [FK])
 tbSelvagem (ID_Selvagem [PK], ID_Centro [FK])
 tbEnfermeira (ID_Enfermeira [PK], Nome, ID_Centro [FK], ID_Endereço [FK])
 tbDependente (ID_Dependente [PK], Nome, ID_Enfermeira [FK])
-tbConsulta (Data_Hora_Consulta [PK], Descrição, HP_Atual, Condição, ID_Pokémon [FK], ID_Centro [FK], ID_Enfermeira [FK])
+tbConsulta (Data_Hora_Consulta [PK], Descrição, HP_Atual, Condição, ID_Pokémon [FK], ID_Centro [FK], ID_Enfermeira [FK]) 
+```
+---
+
+## 👥 Autores
+Trabalho desenvolvido pelos estudantes do IFB - Campus Brasília:
+* Céu Tavares
+* Dominique Nazareth
+* Dylan Gomes
+* Jéssica Freitas
+
+Orientador: Prof. Hugo do Carmo Mendes Cesar
