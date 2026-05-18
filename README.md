@@ -4,7 +4,7 @@
 ![Database](https://img.shields.io/badge/Database-Relational-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
 
-Artefato acadêmico focado na análise de requisitos, modelagem conceitual (DER) e lógica (Modelo Relacional) para um sistema de gerenciamento de rede de Centros Pokémon. Desenvolvido como parte do componente curricular de Banco de Dados do curso de **Tecnólogo em Sistemas para Internet** no **Instituto Federal de Brasília (IFB)**.
+Sistema de gerenciamento para Centros Pokémon desenvolvido como projeto acadêmico do curso de Sistemas para Internet do Instituto Federal de Brasília (IFB). O objetivo do projeto é modelar e estruturar um banco de dados capaz de registrar treinadores, pokémons, enfermeiras e consultas realizadas nos Centros Pokémon.
 
 ---
 
