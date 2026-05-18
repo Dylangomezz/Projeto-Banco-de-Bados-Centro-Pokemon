@@ -4,7 +4,7 @@
 ![Database](https://img.shields.io/badge/Database-Relational-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
 
-Sistema de gerenciamento para Centros Pokémon desenvolvido como projeto acadêmico do curso de Sistemas para Internet do Instituto Federal de Brasília (IFB). O objetivo do projeto é modelar e estruturar um banco de dados capaz de registrar treinadores, pokémons, enfermeiras e consultas realizadas nos Centros Pokémon.
+Sistema de gerenciamento para Centros Pokémon desenvolvido como projeto acadêmico do curso de **Sistemas para Internet do Instituto Federal de Brasília (IFB)**. O objetivo do projeto é modelar e estruturar um banco de dados capaz de registrar treinadores, pokémons, enfermeiras e consultas realizadas nos Centros Pokémon.
 
 ---
 
@@ -15,6 +15,8 @@ Sistema de gerenciamento para Centros Pokémon desenvolvido como projeto acadêm
 - [Modelagem Conceitual (DER)](#-modelagem-conceitual-der)
 - [Modelagem Lógica (Modelo Relacional)](#-modelagem-lógica-modelo-relacional)
 - [Dicionário de Dados (Esquema de Tabelas)](#-dicionário-de-dados-esquema-de-tabelas)
+- [Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+- [Objetivo Acadêmico](#-objetivo-acadêmico)
 - [Autores](#-autores)
 
 ---
@@ -76,11 +78,36 @@ tbConsulta (Data_Hora_Consulta [PK], Descrição, HP_Atual, Condição, ID_Poké
 ```
 ---
 
+## 🛠️ Tecnologias Utilizadas
+* Modelagem Entidade Relacionamento (DER)
+* Modelo Relacional
+* Banco de Dados Relacional
+* SQL
+* BrModelo
+
+---
+
+## 🎯 Objetivo Acadêmico
+Este projeto foi desenvolvido para a disciplina de Banco de Dados no Instituto Federal de Brasília, com foco em:
+Modelagem conceitual
+Modelagem lógica
+Normalização
+Regras de negócio
+Estruturação de banco relacional
+
+---
+
 ## 👥 Autores
 Trabalho desenvolvido pelos estudantes do IFB - Campus Brasília:
-* Céu Tavares
-* Dominique Nazareth
-* Dylan Gomes
-* Jéssica Freitas
+* **Céu Tavares**
+* **Dominique Nazareth**
+* **Dylan Gomes**
+* **Jéssica Freitas**
 
-Orientador: Prof. Hugo do Carmo Mendes Cesar
+**Orientador**: Prof. Hugo do Carmo Mendes Cesar
+
+---
+
+## 🏫 Instituição
+**Instituto Federal de Brasília - Campus Brasília
+ Curso: Tecnólogo em Sistemas para Internet**
