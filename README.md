@@ -14,7 +14,6 @@ Sistema de gerenciamento para Centros Pokémon desenvolvido como projeto acadêm
 - [Requisitos do Sistema](#-requisitos-do-sistema)
 - [Modelagem Conceitual (DER)](#-modelagem-conceitual-der)
 - [Modelagem Lógica (Modelo Relacional)](#-modelagem-lógica-modelo-relacional)
-- [Dicionário de Dados (Esquema de Tabelas)](#-dicionário-de-dados-esquema-de-tabelas)
 - [Tecnologias Utilizadas](#️-tecnologias-utilizadas)
 - [Objetivo Acadêmico](#-objetivo-acadêmico)
 - [Autores](#-autores)
